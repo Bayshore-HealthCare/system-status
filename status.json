@@ -1,0 +1,14 @@
+{
+   "alayacare":{
+      "status":"running",
+      "customMessage":""
+   },
+   "procura":{
+      "status":"running",
+      "customMessage":""
+   },
+   "procura-private":{
+      "status":"running",
+      "customMessage":""
+   }
+}
