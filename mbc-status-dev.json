@@ -1,0 +1,18 @@
+{
+   "ac": {
+      "status": "healthy",
+      "customMessage": ""
+   },
+   "proc-govt": {
+      "status": "healthy",
+      "customMessage": ""
+   },
+   "proc-priv": {
+      "status": "healthy",
+      "customMessage": ""
+   },
+   "proc-ics": {
+      "status": "healthy",
+      "customMessage": ""
+   }
+}
