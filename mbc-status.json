@@ -1,13 +1,17 @@
 {
-   "alayacare":{
+   "ac":{
       "status":"running",
       "customMessage":""
    },
-   "procura":{
+   "proc-govt":{
       "status":"running",
       "customMessage":""
    },
-   "procura-private":{
+   "proc-priv":{
+      "status":"running",
+      "customMessage":""
+   },
+   "proc-ics":{
       "status":"running",
       "customMessage":""
    }
