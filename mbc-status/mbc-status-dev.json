@@ -4,7 +4,7 @@
       "customMessage": ""
    },
    "proc-govt": {
-      "status": "unhealthy",
+      "status": "healthy",
       "customMessage": ""
    },
    "proc-priv": {
