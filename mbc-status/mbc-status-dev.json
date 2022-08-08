@@ -8,7 +8,7 @@
       "customMessage": ""
    },
    "proc-priv": {
-      "status": "unhealthy",
+      "status": "healthy",
       "customMessage": ""
    },
    "proc-ics": {
