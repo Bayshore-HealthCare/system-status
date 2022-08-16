@@ -1,9 +1,9 @@
 {
    "ac": {
-      "status": "unhealthy",
+      "status": "healthy",
       "customMessage": {
-         "en": "Sorry, We are down for the scheduled mainteinance right now.",
-         "fr": "Désolé, nous sommes en panne pour la maintenance planifiée en ce moment."
+         "en": "",
+         "fr": ""
       }
    },
    "proc-govt": {
