@@ -7,14 +7,14 @@
       }
    },
    "proc-govt": {
-      "status": "unhealthy",
+      "status": "healthy",
       "customMessage": {
          "en": "",
          "fr": ""
       }
    },
    "proc-priv": {
-      "status": "unhealthy",
+      "status": "healthy",
       "customMessage": {
          "en": "",
          "fr": ""
