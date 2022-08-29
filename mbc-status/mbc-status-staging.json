@@ -1,18 +1,30 @@
 {
    "ac": {
       "status": "healthy",
-      "customMessage": ""
+      "customMessage": {
+         "en": "",
+         "fr": ""
+      }
    },
    "proc-govt": {
       "status": "healthy",
-      "customMessage": ""
+      "customMessage": {
+         "en": "",
+         "fr": ""
+      }
    },
    "proc-priv": {
       "status": "healthy",
-      "customMessage": ""
+      "customMessage": {
+         "en": "",
+         "fr": ""
+      }
    },
    "proc-ics": {
       "status": "healthy",
-      "customMessage": ""
+      "customMessage": {
+         "en": "",
+         "fr": ""
+      }
    }
 }
