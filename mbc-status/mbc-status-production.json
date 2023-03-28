@@ -7,21 +7,21 @@
       }
    },
    "proc-govt": {
-      "status": "healthy",
+      "status": "unhealthy",
       "customMessage": {
          "en": "",
          "fr": ""
       }
    },
    "proc-priv": {
-      "status": "healthy",
+      "status": "unhealthy",
       "customMessage": {
          "en": "",
          "fr": ""
       }
    },
    "proc-ics": {
-      "status": "healthy",
+      "status": "unhealthy",
       "customMessage": {
          "en": "",
          "fr": ""
